@@ -2,7 +2,6 @@ public class ListaEncadeadaSimples<T> {
     class Node {
         T data;
         Node next;
-
         public Node(T data) {
             this.data = data;
             this.next = null;

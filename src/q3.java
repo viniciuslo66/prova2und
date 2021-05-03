@@ -9,7 +9,6 @@ public class q3 {
         lista1.addLast(5);
         lista1.addLast(1);
         lista1.addLast(ultimoElemento);
-
         lista1.show();
 
         for (int i = 0; i <= ultimoElemento; i++) {
