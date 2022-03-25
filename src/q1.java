@@ -3,7 +3,7 @@ public class q1 {
 
         char[] caracteres;
 
-        String exemplo1 = "()";
+        String exemplo1 = "())";
         String exemplo2 = "()[]{}";
         String exemplo3 = "(]";
         String exemplo4 = "([)]";
